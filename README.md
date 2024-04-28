@@ -4,11 +4,9 @@
 
 </div>
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!!+👋;+I+'+m+Anjali" />
-</h1>
-<br/>           
+</h1>           
 
 ###
 
@@ -21,7 +19,6 @@
 - 📫 Reach me on @avenu073@gmail.com
 
 ##
-<br>
 
 ###
 
@@ -34,7 +31,6 @@
 </p>
 
 ## 
-<br>
 
 <h3 align="left">🛠Languages And Tools</h3>
 
@@ -61,14 +57,12 @@
 ###
 
 ## 
-<br>
 
 ###
 
 <h3 align="left">🔥My Stats</h3>
 
 ###
-<br>
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=p-v-anjali&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
