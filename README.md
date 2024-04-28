@@ -1,10 +1,14 @@
-[![](https://visitcount.itsvg.in/api?id=p-v-anjali&icon=4&color=0)](https://visitcount.itsvg.in)
+<div align="right">
+    
+[![](https://visitcount.itsvg.in/api?id=p-v-anjali&icon=5&color=1)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!!+👋;+I+'+m+Anjali" />
 </h1>
 <br/>           
-
 
 ###
 
@@ -15,23 +19,23 @@
 - ⚡ I’m interested in learning new things.
 - 📚 I’m currently learning JAVA and Laravel
 - 📫 Reach me on @avenu073@gmail.com
-<br>
+
+##
 <br>
 
-## 
-<h3 align="left">🌐 Socials:</h3>
-<br>
+###
+
+<h3 align="left">🌐 Socials</h3>
+
+###
 <p align="center">
-<a href="https://linkedin.com/in/p v anjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p v anjali" height="30" width="40" /></a>  <img width="20" />
-<a href="https://instagram.com/anjali.venugopal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali.venugopal_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/p v anjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p v anjali" height="25" width="40" /></a>  <img width="20" />
+<a href="https://instagram.com/anjali.venugopal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali.venugopal_" height="25" width="40" /></a>
 </p>
-<br>
-
-
-
-
 
 ## 
+<br>
+
 <h3 align="left">🛠Languages And Tools</h3>
 
 ###
@@ -55,9 +59,21 @@
 </div>
 
 ###
+
+## 
 <br>
 
-## Github Status
-![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=true)<br/>
+###
 
+<h3 align="left">🔥My Stats</h3>
+
+###
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=p-v-anjali&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=false)<br/>  
+<div align="center">
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=p-v-anjali&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
