@@ -6,14 +6,22 @@
 <br/>           
 
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 - 🔭 I’m currently pursuing my Master's in Computer Application from Rajagiri College of Social Sciences.
 - ⚡ I’m interested in learning new things.
-- 🌱 I’m currently learning JAVA and Laravel
+- 📚 I’m currently learning JAVA and Laravel
 - 📫 Reach me on @avenu073@gmail.com
 <br>
+<br>
 
-## 🌐 Socials:
-<p align="left">
+## 
+<h3 align="left">🌐 Socials:</h3>
+<br>
+<p align="center">
 <a href="https://linkedin.com/in/p v anjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p v anjali" height="30" width="40" /></a>  <img width="20" />
 <a href="https://instagram.com/anjali.venugopal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali.venugopal_" height="30" width="40" /></a>
 </p>
@@ -23,11 +31,12 @@
 
 
 
-## Languages And Tools
+## 
+<h3 align="left">🛠Languages And Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="36" alt="c logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="36" alt="cplusplus logo"  />
@@ -52,7 +61,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=true)<br/>
 
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
