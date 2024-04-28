@@ -42,19 +42,19 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="36" alt="c logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="36" alt="cplusplus logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="36" alt="css3 logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="36" alt="html5 logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="36" alt="javascript logo"  />
-  <img width="25" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="mysql logo"  />
 </div>
 
@@ -72,7 +72,7 @@
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=p-v-anjali&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=false)<br/>   
+![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p-v-anjali&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
