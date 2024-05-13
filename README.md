@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 - 🔭 I’m currently pursuing my Master's in Computer Application from Rajagiri College of Social Sciences.
