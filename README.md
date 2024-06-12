@@ -3,10 +3,13 @@
 [![](https://visitcount.itsvg.in/api?id=p-v-anjali&icon=5&color=1)](https://visitcount.itsvg.in)
 
 </div>
-
+<div align="center"> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!!+👋;+I+'+m+Anjali" />
-</h1>           
+   <!--<a href="https://git.io/typing-svg">-->
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&center=true&vCenter=true&duration=5001&pause=1000&color=F71F9C&random=false&width=500&height=70&lines=Hello!!+👋;+I'm+Anjali" /></a>
+
+</h1>
+</div>         
 
 ###
 
