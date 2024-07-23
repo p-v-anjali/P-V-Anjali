@@ -18,7 +18,7 @@
 ###
 - 🔭 I’m currently pursuing my Master's in Computer Application from Rajagiri College of Social Sciences.
 - ⚡ I’m interested in learning new things.
-- 📚 I’m currently learning JAVA and Laravel
+- 📚 I’m currently learning Python 
 - 📫 Reach me on @avenu073@gmail.com
 
 ##
