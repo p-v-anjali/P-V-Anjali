@@ -16,7 +16,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
-- 🔭 I’m currently pursuing my Master's in Computer Application from Rajagiri College of Social Sciences.
+- 🎓 Completed my Master's in Computer Applications (MCA) from Rajagiri College of Social Sciences.
 - ⚡ I’m interested in learning new things.
 - 📚 I’m currently learning Python 
 - 📫 Reach me on @avenu073@gmail.com
