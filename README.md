@@ -17,8 +17,8 @@
 
 ###
 - 🎓 Completed my Master's in Computer Applications (MCA) from Rajagiri College of Social Sciences.
-- ⚡ I’m interested in learning new things.
-- 📚 I’m currently learning Python 
+- 💻 Currently learning JavaScript.
+- ⚡ Passionate about building scalable applications and exploring new technologies.
 - 📫 Reach me on @avenu073@gmail.com
 
 ##
